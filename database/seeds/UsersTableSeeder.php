@@ -26,7 +26,7 @@ class UsersTableSeeder extends Seeder
         $settingsArray=[
         array( 
             'key'=>'site.name',
-            'value'=>'Hadiuzzaman Palak',
+            'value'=>'Dev Hridoy',
             'type'=>'text',
             'created_at' => now(),
             'updated_at' => now(),
